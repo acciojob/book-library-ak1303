@@ -19,8 +19,7 @@ img{
 .book-library{
 	background-color:#ffffff;
 	width:80%;
-	height:80%;
-	margin:auto;
+	margin:5% auto;
 	border-radius:5px;
 	box-shadow:0 0 10px rgba(0,0,0,0.2);
 }
@@ -28,6 +27,9 @@ img{
 	background-color:#f1f1f1;
 	padding:15px;
 	margin-top:15px;
+}
+.name{
+	font-weight:500;
 }
 .author{
 	color:#777777;
