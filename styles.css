@@ -1,1 +1,40 @@
 /*  your css code here. If applicable */
+*{
+	padding:0;
+	margin:0;
+	box-sizing:border-box;
+}
+body{
+	background-color:#f8f8f8;
+}
+#heading{
+	text-align:center;
+	padding:10px;
+	background-color:#f1f1f1;
+}
+img{
+	display:block;
+	margin:auto;
+}
+.book-library{
+	background-color:#ffffff;
+	width:80%;
+	height:80%;
+	margin:auto;
+	border-radius:5px;
+	box-shadow:0 0 10px rgba(0,0,0,0.2);
+}
+.book{
+	background-color:#f1f1f1;
+	padding:15px;
+	margin-top:15px;
+}
+.author{
+	color:#777777;
+}
+.price{
+	background-color:#2ecc71;
+	padding:5px;
+	border-radius:5px;
+	text-align:center;
+}
